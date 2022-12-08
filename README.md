@@ -2,9 +2,7 @@
 
 To run this sample app
 
-Run 
-
-`npm i `
+ `npm i `
 
 `npm run start`
 
